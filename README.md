@@ -7,4 +7,6 @@ I am a Beginner developer, passionate about back-end applications, I come from B
 **About me**
 
 
-![Bielzinkkk GitHub stats](https://github-readme-stats.vercel.app/api?username=bielzinkkk&show_icons=true&theme=radical)
+![Bielzinkkk GitHub stats](https://github-readme-stats.vercel.app/api?username=bielzinkkk&show_icons=true&theme=radical) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
