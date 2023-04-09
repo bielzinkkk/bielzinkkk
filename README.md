@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I am a Beginner developer, passionate about back-end applications, I come from Brazil 🇮🇳
 
 **About me**
 
